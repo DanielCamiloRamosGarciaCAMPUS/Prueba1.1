@@ -10,14 +10,17 @@ nav{
 
 /* nav children style*/
 .container1{
-    height: 32px;
+    width: 100%;
     text-align: center;
     align-items: center;
     font-size: 25px;
-    gap:150px
+    gap:350px;
+
+
 }
 .container1 img{
-    width: 8%;
+    width: 10%;
+    
 }
 .container1 div{
     display: flex;
